@@ -1,1 +1,26 @@
-# UNITY_3D_2019_1_14f1
+#Project description:
+
+
+#Development platform:
+Windows 10
+Unity 2019.1.14f1
+
+#Target platform:
+WebGL
+
+#Necessary setup/execution steps:
+WebGL has to be installed
+
+#Visuals:
+None
+
+#Third party material:
+
+
+#Project state:
+
+#Limitations:
+
+#Lessons Learned:
+
+Copyright by you
