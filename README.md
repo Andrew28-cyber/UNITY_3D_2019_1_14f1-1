@@ -1,26 +1,25 @@
-#Project description:
+### Project description:
 
 
-#Development platform:
+### Development platform:
 Windows 10
 Unity 2019.1.14f1
 
-#Target platform:
+### Target platform:
 WebGL
 
-#Necessary setup/execution steps:
+### Necessary setup/execution steps:
 WebGL has to be installed
 
-#Visuals:
+### Visuals:
 None
 
-#Third party material:
+### Third party material:
 
+### Project state:
 
-#Project state:
+### Limitations:
 
-#Limitations:
-
-#Lessons Learned:
+### Lessons Learned:
 
 Copyright by you
