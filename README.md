@@ -21,7 +21,7 @@ None
 ### Lessons Learned:
 
 ### External Help
-+ [Cheatsheet] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-+ [Editor] (https://jbt.github.io/markdown-editor/)
++ [Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
++ [Editor](https://jbt.github.io/markdown-editor/)
 
 Copyright by you
